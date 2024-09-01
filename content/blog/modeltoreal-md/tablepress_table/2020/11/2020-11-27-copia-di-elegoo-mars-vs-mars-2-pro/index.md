@@ -1,0 +1,6 @@
+---
+title: "Migliori stampanti 3d a resina"
+date: "2020-11-27"
+---
+
+\[\["","[Creality LD002R](\"https://amzn.to/39l3fxb\")","[Anycubic Photon S](\"https://amzn.to/2JhDmDB\")","[Elegoo Mars 2 Pro](\"https://amzn.to/39oSj1E\")"\],\["","[![\"Creality](\"https://modeltoreal.com/wp-content/uploads/2020/11/creality-LD002R-1-300x300.jpeg\")](\"https://amzn.to/39l3fxb\")","[![\"Anycubic](\"https://modeltoreal.com/wp-content/uploads/2020/11/anycubic-photon-s-1-300x300.jpg\")](\"https://amzn.to/2JhDmDB\")","[![\"Elegoo](\"https://modeltoreal.com/wp-content/uploads/2020/09/elegoo-mars-2-pro-4-150x150.jpg\")](\"https://amzn.to/39oSj1E\")"\],\["**Volume di stampa**","119x65x160mm","115x65x165mm","129x80x160 mm"\],\["**Risoluzione Matrice LCD**","2K (2560x1440 pixels)","2K (2560x1440 pixels)","2K (2560x1440 pixels)"\],\["**Risoluzione sull\\u2019asse XY**","0,075 mm (75 micron)","0,047 mm (47 micron)","0,047 mm (47 micron)"\],\["**Spessore dello strato**","0,02-0,05 mm","0,01-0,02 mm","0,01-0,02 mm"\],\["**Tempo di cura di ogni strato**","4 secondi","8 secondi","1-2 secondi"\],\["**Precauzioni di sicurezza**","Sacchetto a carbone attivo","Filtro a carbone attivo","Guarnizione coperchio e Filtro a carbone attivo"\],\["","[VEDI PREZZO](\"https://amzn.to/39l3fxb\")","[VEDI PREZZO](\"https://amzn.to/2JhDmDB\")","[VEDI PREZZO](\"https://amzn.to/39oSj1E\")"\]\]
