@@ -5,17 +5,17 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: blue
+  mode: light
+  color: cyan
 
 # SEO
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'modeltoreal.com'
+    description: 'Benvenut@ a Model to Real, il sito sulle stampanti 3D in cui troverai guide, analisi e consigli utili per trasformare le tue idee in realtà.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -30,15 +30,18 @@ marketing:
 header:
   navbar:
     enable: true
+    align: left
+    logo:
+      filename: 'logo.png'
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} modeltoreal.com'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -46,7 +49,7 @@ footer:
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:04'
 
 # Site features
 features:
@@ -55,6 +58,6 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
+    url: 'https://github.com/diletta-ci/modeltoreal-hugoblox'
     content_dir: starters/blog/content
     branch: main

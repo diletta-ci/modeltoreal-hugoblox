@@ -2,12 +2,15 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: /
+  - name: Guide Stampanti 3D
+    url: tag/guide-comparative-stampanti-3d/
     weight: 10
-  - name: Topics
-    url: tags/
+  - name: Analisi modelli Stampanti 3D
+    url: tag/analisi-modelli-stampanti-3d/
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Categorie
+    url: tags/
     weight: 30
+  - name: Su di me
+    url: su-di-me/
+    weight: 40
