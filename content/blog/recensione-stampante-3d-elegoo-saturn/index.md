@@ -1,10 +1,15 @@
 ---
-title: "Recensione Stampante 3D Elegoo Saturn"
-date: "2021-07-14"
-categories: 
-  - "analisi-modelli-stampanti-3d"
-  - "stampanti-3d"
-coverImage: "Elegoo-Saturn-hero-banner-min.jpeg"
+title: Recensione Stampante 3D Elegoo Saturn
+summary: 'Recensione onesta e completa, con pregi e difetti della nuova stampante 3D di grandi dimensioni di casa Elegoo, la Elegoo Saturn'
+date: 2021-07-14
+authors:
+  - admin
+tags:
+  - Analisi Modelli Stampanti 3D
+  - Stampanti 3D
+
+image:
+  caption: Elegoo Saturn stampa
 ---
 
 Dopo vari annunci, attese e ritardi è finalmente uscita sul mercato la nuova [**Elegoo** **Saturn**](https://amzn.to/3wEeDfU), una delle stampanti 3D più attese di casa Elegoo, dopo il grande successo della serie Mars.
@@ -13,7 +18,7 @@ Volendo **riassumere** in due parole le due **caratteristiche principali della E
 
 Se la recensione finisse qui sarebbe abbastanza scarsa e inutile, quindi andiamo con ordine e analizziamo le varie **caratteristiche** e **funzionalitá**, descrivendo quelli che, secondo me, sono i **pregi** e i **difetti** di questo nuovo modello.
 
-\[toc\]
+{{< toc mobile_only=true is_open=true >}}
 
 ## Caratteristiche principali
 
@@ -130,7 +135,7 @@ Al momento **non è inclusa** nella scatola **una bottiglia di resina di prova**
 
 ## TABELLA PRO/CONTRO
 
-**PRO**
+**👍 PRO**
 
 - Grande volume di impressione
 - Ottima definizione dei dettagli
@@ -140,7 +145,7 @@ Al momento **non è inclusa** nella scatola **una bottiglia di resina di prova**
 - Presa Ethernet per stampe in remoto
 - Corpo in metallo con doppio binario lineare per l’asse Z
 
-**CONTRO**
+**👎 CONTRO**
 
 - Manca il sistema di filtraggio dei fumi
 - Le ventole di raffreddamento possono essere un po’ rumorose
@@ -179,4 +184,4 @@ Ciò detto, la qualità e la velocità di stampa sono molto simili a quelle dell
 
 [![](images/Elegoo-Saturn-thumbnail-300x300.jpg)](https://amzn.to/3wEeDfU)
 
-[VEDI IN AMAZON](https://amzn.to/3wEeDfU)
+[🫰Vedi Prezzo](https://amzn.to/3wEeDfU)
