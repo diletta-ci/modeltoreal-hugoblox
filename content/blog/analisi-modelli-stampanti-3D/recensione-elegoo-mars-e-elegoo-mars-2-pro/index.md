@@ -54,7 +54,7 @@ Queste migliorie  si traducono in un aumento di stabilitá durante il movimento
 
 Entrambi i modelli hanno dei **piedini in gomma regolabili** in modo da poter mettere la stampante in piano, cosa molto utile perché la resina nel serbatoio sia tutta alla stessa altezza e non ci si debba ritrovare con stampe incomplete sul finale.
 
-Il **nuovo modello Mars 2** **Pro** ha anche un nuovo **piatto in alluminio fresato** con una micro-lavorazione superficiale che aumenta l’adesione delle stampe, giá peraltro ottima nella versione antecedente della **Elegoo Mars**, per cui i pezzi rimangono ben adesi anche per stampe lunghe.
+Il **nuovo modello Mars 2** **👍 PRO** ha anche un nuovo **piatto in alluminio fresato** con una micro-lavorazione superficiale che aumenta l’adesione delle stampe, giá peraltro ottima nella versione antecedente della **Elegoo Mars**, per cui i pezzi rimangono ben adesi anche per stampe lunghe.
 
 Anche la  **vasca**, o **serbatoio**, che contiene la resina durante la stampa è stata implementata rendendola più capiente e diminuendo la necessità di aggiungere resina in corso durante stampe molto lunghe. Apprezzabile anche che abbiano messo un segno di _MAX_ per segnalare la massima quantità di resina che si può versare. È utile soprattutto per le prime volte in cui la si utilizza, poi con l’esperienza diventa automatico.
 
@@ -188,7 +188,7 @@ Nota: esiste un modello di **stampante 3d a resina di grandi dimensioni**: la **
 
 </figure>
 
-[VEDI IN AMAZON](https://amzn.to/3lcA8PY)
+[🫰Vedi Prezzo](https://amzn.to/3lcA8PY)
 
 <figure>
 
@@ -202,4 +202,4 @@ Nota: esiste un modello di **stampante 3d a resina di grandi dimensioni**: la **
 
 </figure>
 
-[VEDI IN AMAZON](https://amzn.to/38omkOP)
+[🫰Vedi Prezzo](https://amzn.to/38omkOP)

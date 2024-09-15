@@ -11,7 +11,7 @@ Nonostante **Artillery** sia una ditta relativamente giovane, fondata nel 2018, 
 
 La prima Sidewinter X1, uscita nel 2018, era un prodotto accettabile ma decisamente migliorabile. Da allora sono arrivate sul mercato nuove versioni, implementate seguendo il _feedback_ e le richieste degli utenti. Questa ultima versione, la **[Artillery Sidewinder X1 V4](https://amzn.to/3cCfyXD)**, è una stampante solida come una roccia che offre una notevole serie di funzionalitá per il suo prezzo.
 
-In questo articolo troverai una recensione rapida ma efficace di questo modello. Prenderó in esame per prima cosa le **caratteristiche tecniche** e le **funzionalità** in modo che tu possa farti un’idea di come è costruita, nonché delle sue capacità, elencando i punti forti e quelli deboli. Troverai poi una valutazione della **qualità di stampa**, dei **pro** e **contro** e, infine, quello che per me è il **verdetto finale** sulla stampante. Spero che questa recensione ti possa aiutare a decidere se è la stampante giusta per te.
+In questo articolo troverai una recensione rapida ma efficace di questo modello. Prenderó in esame per prima cosa le **caratteristiche tecniche** e le **funzionalità** in modo che tu possa farti un’idea di come è costruita, nonché delle sue capacità, elencando i punti forti e quelli deboli. Troverai poi una valutazione della **qualità di stampa**, dei **👍 PRO** e **👎 CONTRO** e, infine, quello che per me è il **verdetto finale** sulla stampante. Spero che questa recensione ti possa aiutare a decidere se è la stampante giusta per te.
 
 [VEDI PREZZO](https://amzn.to/3cCfyXD)
 
@@ -31,7 +31,7 @@ L'Artillery Sidewinder X1 è una delle tante stampanti in stile Creality CR-10 e
 
 ![Artillery Sidewinter x1 v4 stampante 3D](images/artillery-sidewinter-x1-v4-00.jpeg)
 
-[VEDI IN AMAZON](https://amzn.to/3cCfyXD)
+[🫰Vedi Prezzo](https://amzn.to/3cCfyXD)
 
 A differenza della sua fonte di ispirazione, l'Artillery Sidewinder X1 ha una solida ed elegante base che contiene l’alimentatore, la scheda madre e lo schermo. Ciò conferisce alla stampante 3D un aspetto professionale, abbastanza diverso da altre stampanti di prezzo simile in cui i vari componenti sono separati e danno più un’impressione “fai-da-te”.
 
@@ -111,7 +111,7 @@ Il contenuto della scatola, oltre ovviamente alle parti che costituiscono la sta
 
 ## Tabella PRO/CONTRO
 
-**PRO**
+**👍 PRO**
 
 - Struttura robusta in alluminio
 - Funzione di fine filamento e ripresa ben progettate
@@ -121,7 +121,7 @@ Il contenuto della scatola, oltre ovviamente alle parti che costituiscono la sta
 - Grande volume di stampa
 - Versatilità di uso con diversi materiali
 
-**CONTRO**
+**👎 CONTRO**
 
 - Cablaggio delicato
 - Distribuzione irregolare del calore sul piatto

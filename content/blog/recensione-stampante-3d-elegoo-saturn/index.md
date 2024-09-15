@@ -1,6 +1,6 @@
 ---
 title: Recensione Stampante 3D Elegoo Saturn
-summary: 'Recensione onesta e completa, con pregi e difetti della nuova stampante 3D di grandi dimensioni di casa Elegoo, la Elegoo Saturn'
+summary: 'Recensione onesta e completa, con pregi e difetti della nuova stampante 3D di grandi dimensioni di casa Elegoo: la Elegoo Saturn'
 date: 2021-07-14
 authors:
   - admin
@@ -133,7 +133,7 @@ La stampante viene spedita **ben imballata** tra **strati di schiuma di polietil
 
 Al momento **non è inclusa** nella scatola **una bottiglia di resina di prova**, anche se questo può variare col tempo, ti consiglio quindi di procurarti resina e alcool isopropilico insieme alla stampante, per poter avviare subito una prova di stampa.
 
-## TABELLA PRO/CONTRO
+## Tabella Pro/Contro
 
 **👍 PRO**
 

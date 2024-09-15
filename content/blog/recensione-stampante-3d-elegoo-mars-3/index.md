@@ -1,15 +1,20 @@
 ---
-title: "RECENSIONE STAMPANTE 3D Elegoo Mars 3"
-date: "2022-05-04"
-categories: 
-  - "analisi-modelli-stampanti-3d"
-  - "stampanti-3d"
-coverImage: "Elegoo-Mars3-hero-banner-1.jpeg"
+title: Recensione Stampante 3D Elegoo Mars 3
+summary: 'Recensione onesta e completa, con pregi e difetti della nuova stampante 3D con definizione 4K di casa Elegoo: la Elegoo Mars 3'
+date: 2022-05-04
+authors:
+  - admin
+tags:
+  - Analisi Modelli Stampanti 3D
+  - Stampanti 3D
+
+image:
+  caption: Elegoo Mars stampa
 ---
 
 La **[Mars 3](https://amzn.to/3FjnvNY)** è la **sesta versione** della popolare **stampante a resina** di casa **Elegoo**, oltre ad essere al momento la piú stilosa. A parte l’upgrade in termini di design, la stampante ha anche alcuni **seri vantaggi in termini di prestazioni:** il suo **volume di costruzione** di **143 x 90 x 165 mm** la posiziona piuttosto in alto nel segmento di stampanti a resina di medie dimensioni e con l’aggiunta di una **matrice 4K** (finalmente!), si può stampare a una **risoluzione ultra-fine di 35 micron**. 
 
-\[toc\]
+{{< toc mobile_only=true is_open=true >}}
 
 ## Caratteristiche principali:
 
@@ -179,23 +184,18 @@ Non é prettamente specifico per la Mars 3, ma penso che sia un’informazione i
 - **Connettività**: USB
 - **Dimensioni della stampante**: 227 x 227 x 440 mm
 
-## TABELLA PRO/CONTRO
+## Tabella Pro/Contro
 
-**PRO**
-
+**👍 PRO**
 - Risoluzione 4K (35 micron)
-
 - Ottima definizione dei dettagli
 - Volume di stampa notevole
 - Velocitá di stampa
 - Design elegante
 
-**CONTRO**
-
+**👎 CONTRO**
 - Le ventole di raffreddamento un po’ rumorose
-
 - (Ancora) niente Wi-Fi
-
 - Base in plastica
 
 ## Elegoo Mars 3 - Verdetto finale
@@ -208,4 +208,4 @@ Se non ti interessa fare stampe di dimensioni molto grandi (nel qual caso ti con
 
 [![elegoo mars3 icona](images/Elegoo-Mar3-thumbnail.jpeg)](https://amzn.to/3FjnvNY)
 
-[VEDI IN AMAZON](https://amzn.to/3FjnvNY)
+[🫰Vedi Prezzo](https://amzn.to/3FjnvNY)
