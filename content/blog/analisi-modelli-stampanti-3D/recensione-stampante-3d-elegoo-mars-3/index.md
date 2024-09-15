@@ -204,7 +204,7 @@ La **[Elegoo Mars 3](https://amzn.to/3FjnvNY)** è una **stampante 3D ben proget
 
 Ci sono **alcune funzionalitá e caratteristiche che ancora mancano**, ad esempio nessun sistema di filtraggio dei fumi, l’accesso Wi-fi e la base in plastica anziché in metallo, ma sono tutte preoccupazioni secondarie rispetto alla velocità e alla precisione.
 
-Se non ti interessa fare stampe di dimensioni molto grandi (nel qual caso ti consiglio la **[Elegoo Saturn](https://amzn.to/3KCWFBr)**, di cui puoi trovare [qui](https://modeltoreal.com/recensione-stampante-3d-elegoo-saturn/) una recensione), per il **rapporto qualitá-prezzo**, la **qualitá di stampa** e la **affidabilitá** al momento **Mars 3** é una delle **stampanti migliori sul mercato**: **promossa a pieni voti**.
+Se non ti interessa fare stampe di dimensioni molto grandi (nel qual caso ti consiglio la **[Elegoo Saturn](https://amzn.to/3KCWFBr)**, di cui puoi trovare [qui](/blog/recensione-stampante-3d-elegoo-saturn/) una recensione), per il **rapporto qualitá-prezzo**, la **qualitá di stampa** e la **affidabilitá** al momento **Mars 3** é una delle **stampanti migliori sul mercato**: **promossa a pieni voti**.
 
 [![elegoo mars3 icona](images/Elegoo-Mar3-thumbnail.jpeg)](https://amzn.to/3FjnvNY)
 

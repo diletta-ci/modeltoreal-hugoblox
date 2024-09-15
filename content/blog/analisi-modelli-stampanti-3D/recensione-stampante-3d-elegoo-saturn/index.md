@@ -175,7 +175,7 @@ La **porta Ethernet** e i **4 GB di spazio di archiviazione** la rendono una buo
 
 Sarebbe stato bello avere anche un sistema di filtraggio dell’aria integrato, ma possiamo sperare che venga aggiunto nelle attualizzazioni successive.
 
-Ciò detto, la qualità e la velocità di stampa sono molto simili a quelle della **[Elegoo Mars 2 Pro](https://amzn.to/2VMn6Rl)**, quindi se non hai (e non pensi di avere in futuro) necessità di un volume di stampa così grande, puoi risparmiare qualche centinaio di euro comprando la [Mars 2 Pro](https://amzn.to/2VMn6Rl). Se ti interessa una **recensione sulla Mars 2 Pro**, la puoi trovare [qui](https://modeltoreal.com/elegoo-mars-vs-elegoo-mars-2-pro/).
+Ciò detto, la qualità e la velocità di stampa sono molto simili a quelle della **[Elegoo Mars 2 Pro](https://amzn.to/2VMn6Rl)**, quindi se non hai (e non pensi di avere in futuro) necessità di un volume di stampa così grande, puoi risparmiare qualche centinaio di euro comprando la [Mars 2 Pro](https://amzn.to/2VMn6Rl). Se ti interessa una **recensione sulla Mars 2 Pro**, la puoi trovare [qui](/blog/elegoo-mars-vs-elegoo-mars-2-pro/).
 
 [![](images/Elegoo-Saturn-thumbnail-300x300.jpg)](https://amzn.to/3wEeDfU)
 

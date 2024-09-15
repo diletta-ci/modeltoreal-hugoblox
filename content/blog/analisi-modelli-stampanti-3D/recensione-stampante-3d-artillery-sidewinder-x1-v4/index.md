@@ -160,4 +160,4 @@ Nonostante questi difetti, è un dato di fatto che questa versione 4 dell'**Arti
 
 ## Modello Concorrente/Alternativo
 
-Un modello alternativo per caratteristiche, grande volume di stampa e fascia di prezzo che mi sento di consigliare è l’**[Anycubic Mega X](https://amzn.to/2Ji2J8z)**. Puoi trovare una [recensione dettagliata](https://modeltoreal.com/recensione-anycubic-i3-mega-s-e-anycubic-mega-x/) su questa stampante in questo articolo, per confrontare le caratteristiche e vedere quale ti sembri più adatta alle tue necessità.
+Un modello alternativo per caratteristiche, grande volume di stampa e fascia di prezzo che mi sento di consigliare è l’**[Anycubic Mega X](https://amzn.to/2Ji2J8z)**. Puoi trovare una [recensione dettagliata](/blog/recensione-anycubic-i3-mega-s-e-anycubic-mega-x/) su questa stampante in questo articolo, per confrontare le caratteristiche e vedere quale ti sembri più adatta alle tue necessità.

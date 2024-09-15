@@ -83,7 +83,7 @@ Lo **schermo touch** da 3,5 pollici, con una buona visuale e anche la possibilit
 
 Il **software** è di proprietà, semplice e intuitivo, e permette di stampare i pezzi lasciando una certa percentuale di vuoto all’interno, con un risparmio di materiale e costi. È importante ricordare in questi casi di aggiungere nel programma dei fori per la fuoriuscita della resina liquida dall’interno del pezzo. 
 
-La porta usb si trova sul retro ed è effettivamente un po’ scomoda, infatti nel nuovo modello, [vedi recensione qui](https://modeltoreal.com/migliori-stampanti-3d#Elegoo_Mars_Pro), è stata spostata sul frontale, vicino allo schermo.
+La porta usb si trova sul retro ed è effettivamente un po’ scomoda, infatti nel nuovo modello, [vedi recensione qui](/blog/migliori-stampanti-3d#Elegoo_Mars_Pro), è stata spostata sul frontale, vicino allo schermo.
 
 **L’area di stampa** è di 115x65x150mm, più piccola rispetto a quella di una stampante a filamento (FDM). Le stampanti a resina, infatti, sono indicate per chi é interessato a creare oggetti molto dettagliati, ad esempio, miniature per giochi di ruolo o action figures. A controbilanciare la riduzione dell’area di stampa, vi è il livello dei dettagli, inarrivabile da una stampante a filamento. Inoltre le superfici, dopo l’indurimento del pezzo, risultano quasi perfettamente lisce.
 
@@ -223,7 +223,7 @@ La [Giantarm Geeetech A20](https://amzn.to/30ybFvZ) è la sorella maggiore della
 
 Troviamo anche qui un'ottimo piano riscaldato con copertura _superbase_ e la **scheda madre** GT2560 V3.0, **opensource**, che permette di implementare la configurazione, ad esempio, con [sensore di autolivellamento](https://amzn.to/3d1NivJ), schermo touch, driver più silenziosi e doppio estrusore.
 
-Tra l’altro esiste una versione di questa stampante 3D già di fabbrica con doppio estrusore per poter stampare a due colori o con due diversi materiali, di cui puoi [trovare la descrizione qui](https://modeltoreal.com/migliori-stampanti-3d-doppio-estrusore#GIANTARM_Geeetech_A20M).
+Tra l’altro esiste una versione di questa stampante 3D già di fabbrica con doppio estrusore per poter stampare a due colori o con due diversi materiali, di cui puoi [trovare la descrizione qui](/blog/migliori-stampanti-3d-doppio-estrusore#GIANTARM_Geeetech_A20M).
 
 La differenza piú notevole rispetto all versione A10 è la dimensione dell’**area di stampa** più ampia: 255x255x255mm contro i 220x220x260mm della A10. Si perde un mezzo centimetro in altezza, ma la base è decisamente più grande, se quello che ti interessa è stampare pezzi medio grandi questa stampante fa per te. Di fatto è quella con l’area di stampa più ampia nella fascia di prezzo delle stampanti economiche.
 

@@ -23,7 +23,7 @@ Questo sito è nuovo ed in continuo aggiornamento. Il contenuto crescerà col te
 
 Spero che ti sia utile, buona lettura :)
 
-[contattami](https://modeltoreal.com/contatto/)
+[contattami](mailto:toraeden@gmail.com)
 
 ![](images/charlie-seaman-U2sGzVhHrvw-unsplash-min-685x1024.jpg)
 
@@ -45,4 +45,4 @@ Frontend Developer
 
 Cerco di dare una visione complessiva di ogni prodotto, facendo uno studio approfondito e analizzando ogni dettaglio, nelle guide fornisco il riassunto esaustivo delle caratteristiche più importanti, ma con un linguaggio chiaro ed accessibile anche ai principianti. Questa collezione di guide comparative ti aiuterà a scegliere il prodotto migliore per le tue esigenze.
 
-[**VAI ALLE GUIDE**](https://modeltoreal.com/)
+[**VAI ALLE GUIDE**](/blog/)

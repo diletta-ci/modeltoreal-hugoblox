@@ -48,7 +48,7 @@ Indirizzo del sito: [Cults](https://cults3d.com)
 
 ![MyMiniFactory-hp](images/03-myminifactory-1024x650.jpg)
 
-Anche **MyMiniFactory** funziona sia come **archivio di file sia gratis che a pagamento**, realizzati da designer professionisti, con più di 100.000 modelli orientati per la maggior parte su **giochi** e **cultura geek**. È uno dei siti migliori per scaricare **progetti per stampanti a resina**. Se ti interessa una recensione delle migliori stampanti a resina, la puoi trovare [qui](https://modeltoreal.com/migliori-stampanti-3d-resina).
+Anche **MyMiniFactory** funziona sia come **archivio di file sia gratis che a pagamento**, realizzati da designer professionisti, con più di 100.000 modelli orientati per la maggior parte su **giochi** e **cultura geek**. È uno dei siti migliori per scaricare **progetti per stampanti a resina**. Se ti interessa una recensione delle migliori stampanti a resina, la puoi trovare [qui](/blog/migliori-stampanti-3d-resina).
 
 Indirizzo del sito: [MyMiniFactory](https://www.myminifactory.com)
 

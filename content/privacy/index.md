@@ -31,7 +31,7 @@ In qualsiasi momento l'utente potrà accedere, rettificare, cancellare o opporsi
 
 ## Cookies
 
-Un Cookie è un piccolo file di testo che viene memorizzato nel browser quando l'utente visita quasi tutte le pagine web. La sua utilità è che il web è in grado di ricordare la tua visita quando torni a sfogliare quella pagina. I cookie di solito memorizzano informazioni di natura tecnica, preferenze personali, personalizzazione dei contenuti, statistiche di utilizzo, collegamenti a social network, accesso agli account utente, ecc. Lo scopo del cookie è quello di adattare il contenuto del web al tuo profilo e alle tue esigenze. Senza i cookie i servizi offerti da qualsiasi pagina sarebbero notevolmente ridotti. Se vuoi vedere maggiori informazioni su cosa sono i cookie, cosa memorizzano, come eliminarli, disattivarli, ecc. puoi farlo a [questo link](https://modeltoreal.com/informativa-sui-cookies/).
+Un Cookie è un piccolo file di testo che viene memorizzato nel browser quando l'utente visita quasi tutte le pagine web. La sua utilità è che il web è in grado di ricordare la tua visita quando torni a sfogliare quella pagina. I cookie di solito memorizzano informazioni di natura tecnica, preferenze personali, personalizzazione dei contenuti, statistiche di utilizzo, collegamenti a social network, accesso agli account utente, ecc. Lo scopo del cookie è quello di adattare il contenuto del web al tuo profilo e alle tue esigenze. Senza i cookie i servizi offerti da qualsiasi pagina sarebbero notevolmente ridotti. Se vuoi vedere maggiori informazioni su cosa sono i cookie, cosa memorizzano, come eliminarli, disattivarli, ecc. puoi farlo a [questo link](/blog/informativa-sui-cookies/).
 
 ## Cookie utilizzati in questo sito
 

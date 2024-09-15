@@ -174,7 +174,7 @@ Personalmente ho apprezzato molto gli upgrade in merito alla **sicurezza** e, in
 
 Nondimeno, il **vecchio modello** ha delle ottime prestazioni e se il tuo limite è il **budget** e vuoi una stampante a resina molto economica, ma di buona qualità, puoi tranquillamente acquistarlo per iniziare.
 
-Nota: esiste un modello di **stampante 3d a resina di grandi dimensioni**: la **[Elegoo Saturn](https://amzn.to/2UQIHHF)**. Con un volume di stampa di quasi 3 volte quello della Mars, è una delle stampanti 3D a resina più grandi sul mercato, se sei interessato a leggera la sua recensione la puoi trovare [qui](https://modeltoreal.com/recensione-stampante-3d-elegoo-saturn/).
+Nota: esiste un modello di **stampante 3d a resina di grandi dimensioni**: la **[Elegoo Saturn](https://amzn.to/2UQIHHF)**. Con un volume di stampa di quasi 3 volte quello della Mars, è una delle stampanti 3D a resina più grandi sul mercato, se sei interessato a leggera la sua recensione la puoi trovare [qui](/blog/recensione-stampante-3d-elegoo-saturn/).
 
 <figure>
 
