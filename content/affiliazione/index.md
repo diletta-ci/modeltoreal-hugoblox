@@ -1,6 +1,6 @@
 ---
-title: "Informazioni sull'affiliazione"
-date: "2020-10-03"
+title: Informazioni sull'affiliazione
+date: 2020-10-03
 ---
 
 Questo sito partecipa al programma di affiliazione di Amazon.it e genera ingressi grazie agli acquisti realizzati degli utenti attraverso i link di affiliazione che si possono incontrare.

@@ -39,7 +39,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} modeltoreal.com'
+    notice: "© {year} modeltoreal.com. [Informazione sull'affiliazione](affiliazione)"
     license:
       enable: false
       allow_derivatives: false
