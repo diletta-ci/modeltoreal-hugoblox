@@ -1,10 +1,15 @@
 ---
-title: "Recensione Artillery Sidewinder X1 V4"
-date: "2021-02-03"
-categories: 
-  - "analisi-modelli-stampanti-3d"
-  - "stampanti-3d"
-coverImage: "artillery-sidewinter-x1-v4-00.jpeg"
+title: Recensione Artillery Sidewinder X1 V4
+summary: Recensione, analisi, punti di forza e difetti dell'ultimo modello 2021 della stampante 3D Artillery Sidewinder X1 V4
+date: 2021-02-03
+authors:
+  - admin
+tags:
+  - Analisi Modelli Stampanti 3D
+  - Stampanti 3D
+
+image:
+  caption: Stampante Artillery Sidewinder X1 V4
 ---
 
 Nonostante **Artillery** sia una ditta relativamente giovane, fondata nel 2018, ha prodotto con la sua **[Artillery Sidewinder X1](https://amzn.to/3cCfyXD)** un degno concorrente al dominio di Creality nel settore delle **stampanti 3D FDM** di fascia media.
