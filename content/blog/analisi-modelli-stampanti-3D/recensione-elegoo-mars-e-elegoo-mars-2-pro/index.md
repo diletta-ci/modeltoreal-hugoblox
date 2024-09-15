@@ -7,7 +7,7 @@ categories:
 coverImage: "banner-elegoo-mars-elegoo-mars-pro-2.png"
 ---
 
-\[toc\]
+{{< toc mobile_only=true is_open=true >}}
 
 ## Recensione dei due modelli di stampante 3D a resina CON IL MIGLIOR RAPPORTO QUALITÀ - PREZZO SUL MERCATO: Elegoo mars e mars 2 pro, con Analisi delle caratteristiche, punti comuni e differenze.
 

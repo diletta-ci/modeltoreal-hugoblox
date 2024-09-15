@@ -15,7 +15,7 @@ In questo articolo troverai una recensione rapida ma efficace di questo modello.
 
 [VEDI PREZZO](https://amzn.to/3cCfyXD)
 
-\[toc\]
+{{< toc mobile_only=true is_open=true >}}
 
 ## Caratteristiche principali
 

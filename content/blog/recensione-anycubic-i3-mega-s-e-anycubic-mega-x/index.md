@@ -1,10 +1,15 @@
 ---
-title: "Recensione Anycubic I3 Mega S e Anycubic Mega X"
-date: "2021-04-19"
-categories: 
-  - "analisi-modelli-stampanti-3d"
-  - "stampanti-3d"
-coverImage: "banner-anycubic-mega-s-mega-x.png"
+title: Recensione Anycubic I3 Mega S e Anycubic Mega X
+summary: Recensione onesta e completa dei modelli Anycubic I3 Mega S e Mega X, con analisi, punti in comune e differenze.
+date: 2021-07-14
+authors:
+  - admin
+tags:
+  - Analisi Modelli Stampanti 3D
+  - Stampanti 3D
+
+image:
+  caption: Anycubic I3 Mega S e Anycubic Mega X
 ---
 
 ## Analisi, punti in comune e differenze
@@ -21,15 +26,15 @@ In seguito puoi trovare la mia **recensione** di queste due stampanti, con un'**
 
 [![](images/anycubic-I3-mega-s-5.jpg)](https://amzn.to/3LIqgKh)
 
-[VEDI su AMAZON](https://amzn.to/3LIqgKh)
+[🫰Vedi Prezzo](https://amzn.to/3LIqgKh)
 
 #### [ANYCUBIC MEGA X](https://amzn.to/2Ji2J8z)
 
 [![Anycubic I3 Mega X](images/anycubic-I3-mega-x-1.jpg)](https://amzn.to/2Ji2J8z)
 
-[VEDI su AMAZON](https://amzn.to/2Ji2J8z)
+[🫰Vedi Prezzo](https://amzn.to/2Ji2J8z)
 
-\[toc\]
+{{< toc mobile_only=true is_open=true >}}
 
 ## Caratteristiche principali
 
@@ -156,10 +161,10 @@ Oltre all'estrusione un altro updagrade che puoi fare é aggiungere il supporto 
 
 [![](images/anycubic-I3-mega-s-5.jpg)](https://amzn.to/3LIqgKh)
 
-[VEDI su AMAZON](https://amzn.to/3LIqgKh)
+[🫰Vedi Prezzo](https://amzn.to/3LIqgKh)
 
 #### [ANYCUBIC MEGA X](https://amzn.to/2Ji2J8z)
 
 [![Anycubic I3 Mega X](images/anycubic-I3-mega-x-1.jpg)](https://amzn.to/2Ji2J8z)
 
-[VEDI su AMAZON](https://amzn.to/2Ji2J8z)
+[🫰Vedi Prezzo](https://amzn.to/2Ji2J8z)
