@@ -1,13 +1,18 @@
 ---
-title: "Le migliori stampanti 3D a Resina"
-date: "2020-11-27"
-categories: 
-  - "guide-comparative-stampanti-3d"
-  - "stampanti-3d"
-coverImage: "anycubic-photon-s-stampe.jpg"
+title: Le migliori stampanti 3D a Resina
+summary: Consigli e recensioni delle migliori stampanti a resina 3D del 2024 per trasformare le tue idee in realtà in pochi e semplici passi!
+date: 2020-11-27
+authors:
+  - admin
+tags:
+  - Guide Comparative Stampanti 3D
+  - Stampanti 3D
+
+image:
+  caption: Le migliori stampanti 3D a Resina
 ---
 
-\[toc\]
+{{< toc mobile_only=true is_open=true >}}
 
 Le stampanti 3D a resina, in cui viene utilizzata **luce** per **solidificare resine fotopolimeriche**, sono state inventate all’inizio degli anni ottanta. La tecnologia complessa e il costo ne hanno peró impedito la diffusione fino a pochi anni fa, soprattutto rispetto alle stampanti a filamento (FDM) che presentano una meccanica piú semplice ed economica.
 
@@ -35,7 +40,7 @@ Creality LD002R
 
 </figure>
 
-[VEDI su AMAZON](https://amzn.to/39l3fxb)
+[🫰Vedi Prezzo](https://amzn.to/39l3fxb)
 
 La [LD002R](https://amzn.to/39l3fxb) è il quarto modello di stampante a resina prodotta dalla casa Creality, famosa per la sua [Ender 3](https://amzn.to/3q5A07J), una delle stampanti a filamento più vendute di sempre.
 
@@ -61,21 +66,16 @@ Il **sistema di filtraggio** è composto da un **doppio ventilatore** e un **sac
 
 Il filtro a carbone attivo non è molto efficace e non è nemmeno chiaro se e quando debba essere sostituito, in ogni caso è consigliato utilizzare la stampante in un luogo areato.
 
-**PRO**
-
+**👍 PRO**
 - Prezzo contenuto
-
 - Corpo interamente in alluminio
-
 - Serbatoio graduato
 
-**CONTRO**
-
+**👎 CONTRO**
 - Rumorosa
-
 - Sistema di filtraggio dell’aria non ottimale
 
-[VEDI su AMAZON](https://amzn.to/39l3fxb)
+[🫰Vedi Prezzo](https://amzn.to/39l3fxb)
 
 * * *
 
@@ -93,7 +93,7 @@ Anycubic Photon S
 
 </figure>
 
-[VEDI su AMAZON](https://amzn.to/3HmNwfz)
+[🫰Vedi Prezzo](https://amzn.to/3HmNwfz)
 
 La **[Photon S](https://amzn.to/2JhDmDB)** è una versione migliorata della Photon di casa Anycubic, una delle stampanti più vendute nel 2018, vediamo insieme in che cosa consistono gli _upgrades_ e le sue caratteristiche principali.
 
@@ -127,23 +127,17 @@ Detto questo, **Photon Workshop** ha già preinstallati tutti i settaggi per le 
 
 Due **difetti** da sottolineare sono che **non supporta la funzione di fare pezzi vuoti**, che consente di risparmiare abbastanza sulla resina e che **non c’è modo di salvare settaggi per differenti tipi di resina**. Per cui, se sei uno a cui piace sperimentare con diverse marche ti consiglio di tenere nota dei settaggi su un quaderno e prepararti al noioso compito di reinserirli spesso.
 
-**PRO**
-
+**👍 PRO**
 - Ottima qualitá di stampa
-
 - Filtro a carboni attivi
 
-**CONTRO**
-
+**👎 CONTRO**
 - Prezzo
-
 - _Case_ plastica con aria poco solida
-
 - Serbatoio senza segno di _max_
-
 - Software dedicato
 
-[VEDI su AMAZON](https://amzn.to/3HmNwfz)
+[🫰Vedi Prezzo](https://amzn.to/3HmNwfz)
 
 * * *
 
@@ -161,7 +155,7 @@ Elegoo Mars 2 Pro
 
 </figure>
 
-[VEDI su AMAZON](https://amzn.to/39oSj1E)
+[🫰Vedi Prezzo](https://amzn.to/39oSj1E)
 
 La [Elegoo Mars 2 Pro](https://amzn.to/39oSj1E), come per la maggior parte delle stampanti a resina, è pronta all’uso una volta tolti gli imballaggi, e **non necessita di montaggio**. L'unica operazione richiesta è la **calibrazione** del piatto e il suo fissaggio con due viti a brugola, operazione molto semplice che richiede un massimo di cinque minuti per essere portata a termine.
 
@@ -193,21 +187,16 @@ Il **software** della stampante è molto intuitivo e di facile utilizzo, si nota
 
 Una funzione utilissima del software è la possibilità, se si mette in **pausa** la stampa, di **vedere praticamente da subito se i pezzi hanno aderito**, perché il piatto si solleva di qualche cm sopra la vasca. In seguito si può ovviamente riprendere la stampa da dove si era fermata. Questa funzione è molto utile soprattutto se si stanno utilizzando resine nuove o modelli molto lunghi per non perdere tempo in attese inutili.
 
-**PRO**
-
+**👍 PRO**
 - Velocità di stampa
-
 - Alta definizione dei dettagli
-
 - Ottimo rapporto qualità prezzo
-
 - Filtro a carbone attivo e guarnizione
 
-**CONTRO**
-
+**👎 CONTRO**
 - Ventole di raffreddamento un po' rumorose
 
-[VEDI su AMAZON](https://amzn.to/39oSj1E)
+[🫰Vedi Prezzo](https://amzn.to/39oSj1E)
 
 * * *
 
