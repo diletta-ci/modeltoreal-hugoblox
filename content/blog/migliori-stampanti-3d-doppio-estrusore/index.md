@@ -1,13 +1,18 @@
 ---
-title: "Migliori stampanti 3D a doppio estrusore"
-date: "2024-04-01"
-categories: 
-  - "guide-comparative-stampanti-3d"
-  - "stampanti-3d"
-coverImage: "migliori-stampanti-3d-doppio-estrusore.jpg"
+title: Migliori stampanti 3D a doppio estrusore
+summary: Cerchi una stampante 3D a doppio estrusore? Qui troverai tutte le informazioni che ti servono per scegliere quale sia la migliore per te.
+date: 2024-04-01
+authors:
+  - admin
+tags:
+  - Guide Comparative Stampanti 3D
+  - Stampanti 3D
+
+image:
+  caption: Migliori Stampanti 3D Doppio Estusore
 ---
 
-\[toc\]
+## Guida comparativa qualitá/prezzo per le migliori Stampanti 3D doppio estrusore del 2024
 
 Le **stampanti 3D a doppio estrusore**, o come vengono impropriamente definite a volte **stampanti bicolori**, sono una categoria di stampanti relativamente recente che merita una guida a parte perché permettono di costruire oggetti ancora più particolari ed interessanti rispetto alle stampanti 3D classiche.
 
@@ -21,7 +26,7 @@ La presenza di due estrusori, soprattutto se sono in grado di muoversi in manier
 
 ![Modalitá duplicazione](images/Doppio-estrusore-duplicate.png)
 
-#### Modalitá DUPLICAZIONE
+#### Modalitá duplicazione
 
 ![Supporti solubili](images/Doppio-estrusore-soluble-support.png)
 
@@ -30,6 +35,9 @@ La presenza di due estrusori, soprattutto se sono in grado di muoversi in manier
 ![Doppio material](images/Doppio-estrusore-double-materials.png)
 
 #### bicolore
+
+{{< toc mobile_only=true is_open=true >}}
+
 
 ## Quale stampante 3D a doppio estrusore comprare? Selezione rapida
 
@@ -41,8 +49,6 @@ In questo articolo troverai recensioni oneste con pregi e difetti delle **5 migl
 
 - **[FlashForge 3D Creator Pro 2](https://amzn.to/3TXf9UY): migliore stampante pronta all’uso**, struttura a camera chiusa e testine di stampa con movimento indipendente.
 
-\[table id=7 /\]
-
 ## Guida comparativa delle migliori stampanti 3D a doppio estrusore
 
 ### **Sovol SV04**
@@ -51,7 +57,7 @@ In questo articolo troverai recensioni oneste con pregi e difetti delle **5 migl
 
 __La migliore stampante per qualità/prezzo. Molto versatile con due testine di stampa con movimento indipendente, scheda madre silenziosa e grande volume di stampa.__
 
-[VEDI PREZZO](https://amzn.to/43Dtg57)
+[🫰Vedi Prezzo](https://amzn.to/43Dtg57)
 
 La ditta cinese Sovol è più conosciuta per la sua produzione di filamenti e accessori che per le stampanti, negli ultimi tre anni si è però ritagliata già un suo posto nel mercato delle stampanti a doppio estrusore per i suoi **prezzi vantaggiosi per le funzionalitá offerte**.
 
@@ -69,19 +75,15 @@ Il **volume di stampa** è piú che generoso, con i suoi **300 x 300 x 400 mm**,
 
 La **scheda madre** che la Sovol utilizza è una delle schede madri più recenti di Creality, con i driver TMC2209 per il motore passo-passo, questo rende la stampante relativamente **silenziosa** durante la stampa, anche se ovviamente si sente il rumore delle ventole di raffreddamento.
 
-**PRO**
-
+**👍 PRO**
 - Stampante IDEX molto economica
-
 - Grande volume di stampa
 
-**CONTRO**
-
+**👎 CONTRO**
 - Connessione WIFI assente
-
 - Dimensioni della stampante un po’ grandi
 
-[VEDI IN AMAZON](https://amzn.to/43Dtg57)
+[🫰Vedi Prezzo](https://amzn.to/43Dtg57)
 
 * * *
 
@@ -91,7 +93,7 @@ La **scheda madre** che la Sovol utilizza è una delle schede madri più recenti
 
 __Stampante solida e affidabile con un prezzo più che contenuto. Permette di creare oggetti con gradienti di colore.__
 
-[Vedi in amazon](https://amzn.to/3IZw9DI)
+[🫰Vedi Prezzo](https://amzn.to/3IZw9DI)
 
 La stampante **Geeetech Mizar-M** ha il corpo in alluminio, solido e stabile, e si acquista in kit, ma **semi-assemblata**. Il **montaggio** è semplice e soprattutto veloce: è costituita dalla base che ospita tutti i componenti e da un arco che ha già montati motori ed estrusore. Si tratta solo di connettere queste due parti con quattro viti e pochi connettori elettrici. I connettori sono chiaramente identificati e possono essere inseriti solo nel verso corretto, l’assemblaggio è davvero a prova di errore.
 
@@ -125,21 +127,16 @@ Sembra ovvio aggiungere che, nonostante la **Geeetech Mizar M** ci permetta di f
 
 La Geetech commercializza dei [filamenti _silk_](https://amzn.to/34l6wc0), particolarmente indicati per questo tipo di stampante, con finitura finale molto lucida e liscia, quasi “morbida”, al tatto.
 
-**PRO**
-
+**👍 PRO**
 - Stampe a gradiente di colore
-
 - Montaggio semplice
-
 - Calibrazione automatica
 
-**CONTRO**
-
+**👎 CONTRO**
 - Stampa di un solo pezzo per volta
-
 - Torre di scarico
 
-[VEDI IN AMAZON](https://amzn.to/3IZw9DI)
+[🫰Vedi Prezzo](https://amzn.to/3IZw9DI)
 
 * * *
 
@@ -149,7 +146,7 @@ La Geetech commercializza dei [filamenti _silk_](https://amzn.to/34l6wc0), parti
 
 __La stampante a doppio estrusore con tecnologia IDEX più economica sul mercato, consigliata ad utenti con alte aspettative.__
 
-[VEDI PREZZO](https://amzn.to/3PHhb9s)
+[🫰Vedi Prezzo](https://amzn.to/3PHhb9s)
 
 La [**Tenlog TL-D3 Pro**](https://amzn.to/3PHhb9s) è una stampante prodotta da una casa relativamente nuova sul mercato e abbastanza sconosciuta che stupisce per l'**ottima qualità** del prodotto.
 
@@ -171,23 +168,17 @@ Anche il **volume di stampa** è decisamente soddisfacente, con i suoi **300x300
 
 Per quanto riguarda il **livello di rumore**, la scheda madre della TL-D3 Pro supporta sia i **driver passo-passo** TMC2208 che TMC2225, quindi la macchina è **molto silenziosa** durante il funzionamento, si sente solo la ventola. Particolare non trascurabile, quando la stampa è terminata tutte le ventole si fermano, quindi **Tenlog TL-D3 Pro** è totalmente silenziosa quando è accesa ma non stampa.Le funzionalità aggiuntive di Tenlog TL-D3 Pro includono un **display touchscreen a colori da 4,3 pollici**, attraverso cui vengono gestiti tutti i controlli della stampante e i **sensori di fine filamento** e per il **recupero dell’attività di  stampa** dopo interruzione di corrente.
 
-**PRO**
-
+**👍 PRO**
 - Doppia testine di stampa con tecnologia IDEX
-
 - Estrusori a trasmissione diretta
-
 - Silenziosa
-
 - Resume print e sensore di fine filamento
 
-**CONTRO**
-
+**👎 CONTRO**
 - Calibrazione manuale
-
 - Non sempre reperibile per le vendita in Europa
 
-[VEDI PREZZO](https://amzn.to/3PHhb9s)
+[🫰Vedi Prezzo](https://amzn.to/3PHhb9s)
 
 * * *
 
@@ -197,7 +188,7 @@ Per quanto riguarda il **livello di rumore**, la scheda madre della TL-D3 Pro su
 
 __Stampante di gamma medio alta, versatile e facile da usare, con doppio estrusore indipendente (IDEX technology). Consigliata ad utenti senza problemi di budget.__
 
-[vedi prezzo](https://amzn.to/3TXf9UY)
+[🫰Vedi Prezzo](https://amzn.to/3TXf9UY)
 
 La [**Flashforge 3D Creator Pro 2**](https://amzn.to/3TXf9UY) è la versione aggiornata della stampante a doppio estrusore finora piú venduta dalla ditta. È una stampante molto versatile e con **tecnologia IDEX** (_Independent Dual Extrusion_), i due estrusori cioè possiedono un movimento indipendente lungo l’_asse X_.
 
@@ -223,23 +214,17 @@ Per quanto riguarda la **connettività** Flashforge ha dotato la stampante di pr
 
 Continua a mancare la funzione di ripresa dopo interruzione (**_resume print_**), cosa che ci si aspetterebbe da una stampante di questa fascia di prezzo.
 
-**PRO**
-
+**👍 PRO**
 - Doppio estrusore indipendente
-
 - Schermo Touch a colori
-
 - Robusta camera chiusa con tetto apribile
 
-**CONTRO**
-
+**👎 CONTRO**
 - Volume di stampa ridotto
-
 - Manca il resume print
-
 - Piatto non estraibile
 
-[VEDI PREZZO](https://amzn.to/3TXf9UY)
+[🫰Vedi Prezzo](https://amzn.to/3TXf9UY)
 
 * * *
 
@@ -249,7 +234,7 @@ Continua a mancare la funzione di ripresa dopo interruzione (**_resume print_**)
 
 __Stampante a doppio estrusore IDEX di gamma alta, camera chiusa di alluminio, alta velocitá di stampa (350 mm/s). Non economica ma con alte prestazioni.__
 
-[VEDI IN AMAZON](https://amzn.to/3J79SDX)
+[🫰Vedi Prezzo](https://amzn.to/3J79SDX)
 
 La **[Snapmaker J1s](https://amzn.to/3J79SDX)** é una stampante 3D a doppio estrusore con camera chiusa, robustissima: il case in alluminio ha ben 6mm di spessore che garantiscono stabilità e alta precisione. Arriva già montata, in pratica, è solo necessario rimuovere la viti/blocco del trasporto e si è pronti a partire.
 
@@ -275,20 +260,15 @@ Per finire, abbiamo uno **schermo** da 5 pollici con risoluzione (1280x720) a **
 
 ![Snapmaker J1s-0 Stampante 3D - Schermo](images/Snapmaker-J1s-6-e1711990921370.webp)
 
-**PRO**
-
+**👍 PRO**
 - Camera chiusa robusta in alluminio
-
 - Stampante IDEX con perfetto allineamento estrusori
-
 - Alta velocitá di stampa (350mm/s)
 
-**CONTRO**
-
+**👎 CONTRO**
 - Area di stampa non molto grande
-
 - Non economica
 
-[VEDI IN AMAZON](https://amzn.to/3J79SDX)
+[🫰Vedi Prezzo](https://amzn.to/3J79SDX)
 
 * * *
