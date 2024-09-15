@@ -1,15 +1,20 @@
 ---
-title: "Recensione di Elegoo Mars e Elegoo Mars 2 Pro"
-date: "2021-04-15"
-categories: 
-  - "analisi-modelli-stampanti-3d"
-  - "stampanti-3d"
-coverImage: "banner-elegoo-mars-elegoo-mars-pro-2.png"
+title: Recensione di Elegoo Mars e Elegoo Mars 2 Pro
+summary: Recensione onesta delle stampanti 3D a resina Elegoo MARS e MARS 2 PRO - analisi delle caratteristiche, punti in comune e differenze
+date: 2021-04-15
+authors:
+  - admin
+tags:
+  - Analisi Modelli Stampanti 3D
+  - Stampanti 3D
+
+image:
+  caption: Elegoo Mars e Elegoo Mars 2 Pro
 ---
 
 {{< toc mobile_only=true is_open=true >}}
 
-## Recensione dei due modelli di stampante 3D a resina CON IL MIGLIOR RAPPORTO QUALITÀ - PREZZO SUL MERCATO: Elegoo mars e mars 2 pro, con Analisi delle caratteristiche, punti comuni e differenze.
+## Recensione dei due modelli di stampante 3D a resina con il miglior rapporto qualitá/prezzo sul mercato: Elegoo Mars e Mars 2 Pro, con Analisi delle caratteristiche, punti comuni e differenze.
 
 Nonostante le stampanti che utilizzano resine fotopolimeriche siano state inventate prima di quelle a deposizione di filamento fuso (FDM), queste ultime hanno avuto una maggiore espansione grazie ai costi piú contenuti e ad una relativa facilità di uso.  Negli ultimi tempi però, con l’avvento delle luci LED molto meno costose e di nuovi tipi di resine un po’ meno tossiche sono arrivati sul mercato i primi modelli più accessibili sia in termini di budget che di utilizzo. 
 
@@ -19,7 +24,6 @@ In questo articolo potrai trovare la mia **recensione di queste due versioni**, 
 
 Ho pensato di recensire questi due modelli perché la **Mars** è **molto economica** e magari ti interessa sapere se ha già quello che ti serve con un budget molto basso. Invece la **Mars 2 Pro** è l**a versione più evoluta al momento della serie Mars** e se non hai problemi di budget, secondo me non vale la pena di comprare il modello intermedio tra le due, che costa poco meno. Nella **tabella** sottostante puoi trovare riassunte le **specifiche tecniche delle due stampanti**, anche se, a mio parere, i dati grezzi non sono sufficienti a comprendere bene in che cosa consistono le funzionalità che Elegoo ha scelto di implementare per migliorare la prima Mars e che troverai descritte in dettaglio nell’articolo.
 
-\[table id=mars-vs-mars2pro /\]
 
 * * *
 
@@ -54,7 +58,7 @@ Queste migliorie  si traducono in un aumento di stabilitá durante il movimento
 
 Entrambi i modelli hanno dei **piedini in gomma regolabili** in modo da poter mettere la stampante in piano, cosa molto utile perché la resina nel serbatoio sia tutta alla stessa altezza e non ci si debba ritrovare con stampe incomplete sul finale.
 
-Il **nuovo modello Mars 2** **👍 PRO** ha anche un nuovo **piatto in alluminio fresato** con una micro-lavorazione superficiale che aumenta l’adesione delle stampe, giá peraltro ottima nella versione antecedente della **Elegoo Mars**, per cui i pezzi rimangono ben adesi anche per stampe lunghe.
+Il **nuovo modello Mars 2 Pro** ha anche un nuovo **piatto in alluminio fresato** con una micro-lavorazione superficiale che aumenta l’adesione delle stampe, giá peraltro ottima nella versione antecedente della **Elegoo Mars**, per cui i pezzi rimangono ben adesi anche per stampe lunghe.
 
 Anche la  **vasca**, o **serbatoio**, che contiene la resina durante la stampa è stata implementata rendendola più capiente e diminuendo la necessità di aggiungere resina in corso durante stampe molto lunghe. Apprezzabile anche che abbiano messo un segno di _MAX_ per segnalare la massima quantità di resina che si può versare. È utile soprattutto per le prime volte in cui la si utilizza, poi con l’esperienza diventa automatico.
 

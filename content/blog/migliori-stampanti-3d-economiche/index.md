@@ -261,10 +261,10 @@ L’estrusore in plastica, che non mi convince molto, rimane quello dei modelli 
 
 [🫰Vedi Prezzo](https://amzn.to/30ybFvZ)
 
-* * *
+<!-- * * *
 
 ## Tabella comparativa delle migliori stampanti 3D economiche
 
 Di seguito puoi trovare la tabella che riassume alcune delle caratteristiche e dettagli più importanti delle stampanti descritte in questo articolo.
 
-\[table id=migliori-economiche /\]
+\[table id=migliori-economiche /\] -->

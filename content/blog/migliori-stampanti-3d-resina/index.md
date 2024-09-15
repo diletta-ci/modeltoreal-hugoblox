@@ -198,11 +198,11 @@ Una funzione utilissima del software è la possibilità, se si mette in **pausa*
 
 [🫰Vedi Prezzo](https://amzn.to/39oSj1E)
 
-* * *
+<!-- * * *
 
 ## Tabella comparativa specifiche tecniche
 
-\[table id=mtr-resina /\]
+\[table id=mtr-resina /\] -->
 
 * * *
 
