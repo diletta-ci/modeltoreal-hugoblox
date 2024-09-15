@@ -46,7 +46,9 @@ Se non hai voglia di leggere le informazioni che seguono, ti lascio qui una sele
 * * *
 
 ## Analisi comparativa delle migliori stampanti 3D
+
 {{< toc mobile_only=true is_open=true >}}
+
 Come dicevo, ci sono moltissimi dati tecnici e caratteristiche che si possono tenere in conto per l’acquisto di una stampante 3D, penso però che ci siano delle considerazioni a priori che è importante fare e che già indirizzano molto nella scelta del tipo di modello:
 
 - **Prezzo**: quanto denaro vuoi spendere?

@@ -1,10 +1,17 @@
 ---
-title: "I 15 migliori siti del 2024 per scaricare gratis modelli di stampa 3D"
-date: "2021-06-03"
-categories: 
-  - "stampanti-3d"
-coverImage: "geods-3Dprints.jpg"
+title: I 15 migliori siti del 2024 per scaricare gratis modelli di stampa 3D
+summary: Stai cercando siti gratis per modelli di stampa 3D? Qui troverai la mia lista dei 15 migliori siti da cui scaricare modelli per stampanti 3D
+date: 2021-06-03
+authors:
+  - admin
+tags:
+  - Stampanti 3D
+  - Modelli di Stampa
+
+image:
+  caption: Geods 3D Prints
 ---
+
 
 In questo articolo ho pensato di fare un **elenco dei migliori siti gratuiti** che conosco per **scaricare gratuitamente progetti di stampa 3D** sia in formato STL che in altri formati di file. 
 
@@ -18,7 +25,7 @@ Dopo la tabella troverai una **breve descrizione di ciascun sito**, con **inform
 
 Se mi sono perso il tuo sito preferito per i download gratuiti o hai suggerimenti e correzioni, fammelo sapere nei commenti e aggiorneró l’articolo.
 
-\[table id=9 /\]
+{{< toc mobile_only=true is_open=true >}}
 
 ## 1 - Thingiverse
 
