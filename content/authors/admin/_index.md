@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Alex
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Alex
+last_name: Modeltoreal
 
 # Status emoji
 status:
@@ -17,35 +17,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Appassionato di tecnologia e Stampanti 3D
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name:
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Benvenut@ su Model to Real!
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:toraeden@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -54,6 +41,5 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Benvenut@ su Model to Real! 
+Sono Alex e sono da sempre appassionato di tecnologia. Al tempo stesso mi piace creare e sperimentare. Nelle stampanti 3D ho trovato il connubio perfetto tra tecnologia e creatività. Quando ho iniziato, mi sono trovato in difficoltà a destreggiarmi in questo nuovo mondo e ho pensato di raccogliere le mie conoscenze e la mia esperienza in un blog di modo che potesse essere di aiuto a più persone. Questo sito è nuovo ed in continuo aggiornamento. Il contenuto crescerà col tempo, ti invito a tornarci di tanto in tanto. Spero che ti sia utile, buona lettura :)
