@@ -1,0 +1,14 @@
+/* Color theme: MODELTOREAL */
+:root {
+    --color-primary-50: 217 237 146;
+    --color-primary-100: 181 228 140;
+    --color-primary-200: 153 217 140;
+    --color-primary-300: 118 200 147;
+    --color-primary-400: 128 198 171;
+    --color-primary-500: 52 160 164;
+    --color-primary-600: 22 138 173;
+    --color-primary-700: 26 117 159;
+    --color-primary-800: 30 96 145;
+    --color-primary-900: 24 78 119;
+    --color-primary-950: 5 46 22;
+}
