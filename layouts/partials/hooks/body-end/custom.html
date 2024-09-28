@@ -1,0 +1,8 @@
+<script>
+    // Add to all referral amazon links noindex nofollow
+    const referralLink = 'amzn.to';
+
+    Array.from(document.links)
+        .filter(link => link.hostname != window.location.hostname && link.hostname.startsWith(referralLink))
+        .forEach(link => link.rel = 'noindex nofollow');
+</script>
