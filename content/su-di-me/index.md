@@ -33,16 +33,8 @@ Spero che ti sia utile, buona lettura :)
 
 ![](images/thiago-medeiros-araujo-AxWPtVFci14-unsplash-1024x683.jpg)
 
-Quando trova un argomento che gli piace, Alex non smette di studiare, scavare in profondità fino a quando non ha tutto chiaro su quel tema. Sono impressionata dalla professionalità e dalla qualità degli suoi articoli ricchi di dettagli.
-
-![Giodi CI foto profilo](images/giodici.jpeg)
-
-#### GIODI CI
-
-Frontend Developer
-
-## una COLLEZIONE Delle GUIDE COMPARATIVE
+## Una collezione delle GUIDE COMPARATIVE
 
 Cerco di dare una visione complessiva di ogni prodotto, facendo uno studio approfondito e analizzando ogni dettaglio, nelle guide fornisco il riassunto esaustivo delle caratteristiche più importanti, ma con un linguaggio chiaro ed accessibile anche ai principianti. Questa collezione di guide comparative ti aiuterà a scegliere il prodotto migliore per le tue esigenze.
 
-[**VAI ALLE GUIDE**](/blog/)
+[**VAI ALLE GUIDE**](/tag/guide-comparative-stampanti-3d/)
