@@ -1,6 +1,7 @@
 ---
 title: "Politica sulla Privacy"
 date: "2020-09-23"
+private: true
 ---
 
 ## Area di applicazione
